@@ -1,2 +1,4 @@
 Faker==40.43.0
 psycopg2-binary==2.9.13
+pyparsing==3.3.3
+rdflib==7.6.0
